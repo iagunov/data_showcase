@@ -1,4 +1,4 @@
-# Data Warehouse Project
+# Data Showcase Project
 Creating a data showcase.
 
 # Live video of the process
